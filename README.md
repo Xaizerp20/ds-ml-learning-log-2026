@@ -1,4 +1,4 @@
-# DS/ML roadmap 2026 (Industry-Focused)
+# DS/ML Learning 2026 (Industry-Focused)
 
 This repository is my **hands-on roadmap** to build solid **Data Science and Machine Learning** skills throughout 2026 with a strong **industry focus**.
 
